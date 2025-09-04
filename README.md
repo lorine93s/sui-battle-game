@@ -130,5 +130,8 @@ Issues and PRs are welcome. Please:
 - Add/extend tests where possible
 - Follow Move best practices and Sui module conventions
 
+### Contact
+For questions or collaboration, reach out on Telegram: [@lorine93s](https://t.me/lorine93s)
+
 ### License
 Apache-2.0. See [LICENSE](./LICENSE).
